@@ -1,6 +1,6 @@
 INPUT FORMAT : download or export a chat from whatsapp group or even with indivisual and provide this text file as input and the project will give all necessary statistics with 100% accuracy.
 
-WEB APP WORKING SCREENSHOTS : 
+WEB APP WORKING SCREENSHOTS :  
 
 ![wa-1](https://github.com/DhruvinChawda/Whatsapp-Chat-Analyser/assets/108188838/466c4f41-223d-43c7-bc60-d59f3d36cdb3)
 ![wa-8](https://github.com/DhruvinChawda/Whatsapp-Chat-Analyser/assets/108188838/75c38a4c-9f7d-492a-8df8-12c4b0a18581)
